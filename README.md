@@ -28,7 +28,7 @@ A simple, elegant web application that allows users to view images from URLs wit
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/image-viewer.git
+https://github.com/ANSHSINGH050404/-IT-Solution-Management-International-Pte.Ltd_wev-version.git
 ```
 
 2. Navigate to the project directory:
@@ -143,7 +143,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Support
 
-For support, please open an issue in the GitHub repository or contact [your-email@example.com](mailto:your-email@example.com).
+For support, please open an issue in the GitHub repository or contact anshsinghapa@gmail.com.
 
 ## Roadmap
 
@@ -157,7 +157,7 @@ For support, please open an issue in the GitHub repository or contact [your-emai
 
 ## Author
 
-Your Name - [@yourusername](https://github.com/yourusername)
+Your Name - [Ansh Singh]((https://github.com/ANSHSINGH050404)
 
 ---
 
